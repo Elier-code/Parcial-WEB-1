@@ -49,11 +49,13 @@ hr{
 #content2{
     background-color: #313131;
     grid-column: 2/4;
+    padding-top: 60px;
 }
 pre{
-    margin: auto;
-    margin-top: 60px;
     font-size: 20px;
+    margin: auto;
+    text-align: left;
+    margin-left: -120px;
 }
 #content3{
     grid-row: 1/3;
