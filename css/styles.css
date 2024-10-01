@@ -50,6 +50,8 @@ hr{
     background-color: #313131;
     grid-column: 2/4;
     padding-top: 60px;
+    text-align: center;
+    
 }
 pre{
     font-size: 20px;
